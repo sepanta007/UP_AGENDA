@@ -18,13 +18,11 @@ L'équipe de développement est composée de :
 <span style="color:deeppink;">Instructions</span>
 
 1. Installez les dépendances :
-
-    <kbd>npm install
-</kbd>
+    ```bash
+    npm install
 2. Lancez l'application <span style="color:#5E81F4;">UP Agenda</span> :
-
-    <kbd>npm run start
-</kbd>
+    ```bash
+    npm run start
 3. Rendez-vous sur http://localhost:3000 pour accéder à l'application.
 
 ![](https://placehold.co/15x15/5E81F4/5E81F4.png)` Manuel d'utilisation`
